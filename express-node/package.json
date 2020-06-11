@@ -1,0 +1,27 @@
+{
+  "name": "api_max",
+  "version": "1.0.0",
+  "description": "Run an express server from Max",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "keywords": [
+    "server",
+    "express"
+  ],
+  "author": "Sam Tarakajian, Florian Demmer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "http-errors": "^1.7.2",
+    "path": "^0.12.7",
+    "cookie-parser": "^1.4.4",
+    "morgan": "^1.9.1",
+    "cors": "^2.8.5",
+    "socket.io": "2.2.0",
+    "axios": "0.18.0",
+    "pug": "2.0.3",
+    "jade": "1.11.0"
+  }
+}
