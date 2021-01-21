@@ -19,7 +19,7 @@
     "cookie-parser": "^1.4.4",
     "morgan": "^1.9.1",
     "cors": "^2.8.5",
-    "socket.io": "2.2.0",
+    "socket.io": "2.4.0",
     "axios": "0.18.0",
     "pug": "2.0.3",
     "jade": "1.11.0"
