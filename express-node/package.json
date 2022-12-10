@@ -13,7 +13,7 @@
   "author": "Sam Tarakajian, Florian Demmer",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "http-errors": "^1.7.2",
     "path": "^0.12.7",
     "cookie-parser": "^1.4.4",
